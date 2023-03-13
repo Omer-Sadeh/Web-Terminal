@@ -15,4 +15,4 @@ Check it out at: [https://terminal-on-the.web.app/](https://terminal-on-the.web.
 - alias command
 
 ### Installation
-For the chatGPT parts to work, add 'REACT_APP_OPENAI_API_KEY=<KEY>' to a .env file in root folder.
+For the chatGPT parts to work, add 'REACT_APP_OPENAI_API_KEY=YOUR_KEY' to a .env file in root folder.
